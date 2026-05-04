@@ -9,7 +9,7 @@
 - 🎓 **Education:** Pursuing B.E. in Computer Science (Expected 2027) | **9.14 CGPA**
 - ☁️ **Expertise:** AWS Certified Cloud Intern with experience in Infrastructure Automation & Migration.
 - 🤖 **Current Focus:** Integrating **Generative AI (LangChain, RAG)** into enterprise-grade applications.
-- 🏛️ **Philosophy:** Leveraging technology as a **Force for Good** to solve real-world urban and social challenges.
+- 🏛️ **Philosophy:** Driven by an AI-native curiosity to spot normalized problems and build scalable solutions for a better, more secure Internet.
 
 ---
 
