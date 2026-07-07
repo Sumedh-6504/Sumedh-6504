@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Pursuing B.E. in Computer Science (Expected 2027) | **9.14 CGPA**
+- 🎓 **Education:** Pursuing B.E. in Computer Science (Expected 2027) | **9.09 CGPA**
 - ☁️ **Expertise:** AWS Certified Cloud Intern with experience in Infrastructure Automation & Migration.
 - 🤖 **Current Focus:** Integrating **Generative AI (LangChain, RAG)** into enterprise-grade applications.
 - 🏛️ **Philosophy:** Driven by an AI-native curiosity to spot normalized problems and build scalable solutions for a better, more secure Internet.
@@ -14,10 +14,10 @@
 ---
 
 ### 🛠️ Technical Stack
-- **Languages:** `Java`, `Python`, `C/C++`, `TypeScript`, `SQL (PostgreSQL)`
+- **Languages:** `Java`, `Python`, `TypeScript`, `SQL (PostgreSQL)`
 - **Cloud & DevOps:** `AWS (EC2, S3, RDS, Lambda)`, `OCI`, `Docker`, `CI/CD Pipelines`
-- **Frameworks:** `Next.js`, `FastAPI`, `Electron`, `Spring Boot`, `Node.js`
-- **Data & AI:** `XGBoost`, `LangChain`, `ChromaDB`, `Model Context Protocol (MCP)`
+- **Frameworks:** `Next.js`, `FastAPI`, `Electron`, `Node.js`
+- **AI:** `LangChain`, `ChromaDB`, `Model Context Protocol (MCP)`
 
 ---
 
