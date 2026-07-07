@@ -40,6 +40,5 @@
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumedh-r-mundewadi-32bb93285/)
 - 📧 [Email](mailto:sumedhrmundewadi@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio-link.com) (Optional)
 
 *"The best way to predict the future is to invent it."*
