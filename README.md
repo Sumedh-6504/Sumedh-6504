@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Sumedh R Mundewadi</h1>
-<h3 align="center">Cloud & AI/ML Engineer in the making | Embedded Systems • MLOps • SaaS Builder</h3>
+<h3 align="center">Software & AI Engineer in the making | Software Systems • AI • SaaS Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumedh-6504&label=Profile%20views&color=0e75b6&style=flat" alt="Sumedh-6504" />
 </p>
 
 <p align="center">
-  <i>Building scalable, production-ready systems across embedded hardware, cloud infrastructure, and applied AI.</i>
+  <i>Building scalable, production-ready systems across software, cloud infrastructure, and applied AI.</i>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 
 - 🎓 Pre-final year **B.E. in Computer Science Engineering** at SJB Institute of Technology (SJBIT), Bengaluru — **CGPA 9.05/10.0**
 - ☁️ Completed an **AWS Cloud internship at F13 Technologies**
-- 🧠 Currently building toward an **AI/ML Engineering & MLOps** career path — RAG, vector databases, LoRA/QLoRA fine-tuning, and production LLM systems
-- 🔧 Equally comfortable across the stack: **embedded firmware (ESP32/IoT)**, **cloud infra**, and **AI-driven product engineering**
+- 🧠 Currently building toward an **AI Engineering & MLOps** career path — RAG, vector databases, LoRA/QLoRA fine-tuning, and production LLM systems
+- 🔧 Equally comfortable across the stack: **Software**, **cloud infra**, and **AI-driven product engineering**
 - 🏗️ Builder-first mindset — I'd rather ship something production-ready than leave it as a theory exercise
 
 ---
@@ -32,13 +32,13 @@
 ### 🤖 AI / ML
 
 [![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
-`MLflow` `SHAP` `Streamlit` `YOLOv8` `DeepSORT` `RAG` `LangChain`
+`MLflow` `MCP` `Streamlit` `LangGraph` `Vector DB` `RAG` `LangChain`
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🚦 [Bengaluru Traffic Predictor](https://github.com/Sumedh-6504/Bengaluru-Traffic-Predictor)
+#### 🔗 [LexGuard-AI](https://github.com/Sumedh-6504/LexGuard-AI)
 
 > ML congestion-forecasting engine using XGBoost with 7-day lag autoregression, tuned for city-scale traffic patterns.
 
@@ -57,10 +57,6 @@
 #### 🧭 SafeRoute-AI v8.0
 
 > A multi-phase graph routing engine modeling Bangalore's road geography for safer, smarter navigation.
-
-#### 💳 Transaction Interface
-
-> A Paytm-style smart payment box — ESP32 firmware with HDMI output, USB OTG, I2S audio, captive-portal configuration, Razorpay webhook integration, and a live Supabase dashboard.
 
 #### 🗺️ RouteVault
 
