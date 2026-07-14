@@ -66,7 +66,9 @@
 
 ### 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=Sumedh-6504&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sumedh-6504&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
