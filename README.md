@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Sumedh R Mundewadi</h1>
-<h3 align="center">Cloud & AI/ML Engineer in the making | Embedded Systems • MLOps • SaaS Builder</h3>
+<h3 align="center">Cloud & AI/ML Engineer in the making | Software Systems • AIOps • SaaS Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumedh-6504&label=Profile%20views&color=0e75b6&style=flat" alt="Sumedh-6504" />
 </p>
 
 <p align="center">
-  <i>Building scalable, production-ready systems across embedded hardware, cloud infrastructure, and applied AI.</i>
+  <i>Building scalable, production-ready systems across Software, cloud infrastructure, and applied AI.</i>
 </p>
 
 ---
