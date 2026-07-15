@@ -23,7 +23,7 @@
 
 ### 🛠 Languages & Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud, DevOps & Tools
 
