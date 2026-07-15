@@ -47,8 +47,8 @@
 
 ### 📂 Featured Projects
 
-#### 🚦 [Bengaluru Traffic Predictor](https://github.com/Sumedh-6504/Bengaluru-Traffic-Predictor)
-> ML congestion-forecasting engine using XGBoost with 7-day lag autoregression, tuned for city-scale traffic patterns.
+#### 🛡️ [LexGuard-AI](https://github.com/Sumedh-6504/LexGuard-AI)
+> AI-powered contract intelligence platform using a 3-agent adversarial pipeline (Gemini 2.5 Flash) to detect predatory clauses, quantify risks, and simulate long-term legal outcomes.
 
 #### 🔐 [Enkrypt — Secure Support Agent](https://github.com/Sumedh-6504/enkrypt-secure-support-agent)
 > A production-grade, security-hardened RAG agent for enterprise support — Supabase/PGVector vector retrieval, automated CI/CD to Modal, and a real-time interface.
