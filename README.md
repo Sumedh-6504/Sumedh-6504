@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pre-final year **B.E. in Computer Science Engineering** at SJB Institute of Technology (SJBIT), Bengaluru — **CGPA 9.05/10.0**
+- 🎓 Pre-final year **B.E. in Computer Science Engineering** at SJB Institute of Technology (SJBIT), Bengaluru — **CGPA 9.09/10.0**
 - ☁️ Completed an **AWS Cloud internship at F13 Technologies**
 - 🧠 Currently building toward an **AI/ML Engineering & MLOps** career path — RAG, vector databases, LoRA/QLoRA fine-tuning, and production LLM systems
 - 🔧 Equally comfortable across the stack: **Software Systems (MERN Stack)**, **cloud infra**, and **AI-driven product engineering**
