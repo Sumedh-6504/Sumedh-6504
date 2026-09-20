@@ -15,9 +15,9 @@
 
 - 🎓 Pre-final year **B.E. in Computer Science Engineering** at SJB Institute of Technology (SJBIT), Bengaluru — **CGPA 9.09/10.0**
 - ☁️ Completed an **AWS Cloud internship at F13 Technologies**
-- 🧠 Currently building toward an **AI/ML Engineering & MLOps** career path — RAG, vector databases, LoRA/QLoRA fine-tuning, and production LLM systems
-- 🔧 Equally comfortable across the stack: **Software Systems (MERN Stack)**, **cloud infra**, and **AI-driven product engineering**
-- 🖥️ **MERN Stack Development** — building full-stack web applications with MongoDB, Express, React, and Node.js
+- 🧠 Currently building toward an **Software Engineering(AI-Integrated) & DevOps** career path — RAG, vector databases, Serverless, and production LLM systems
+- 🔧 Equally comfortable across the stack: **Software Systems (FastAPI & React))**, **cloud infra**, and **AI-driven product engineering**
+- 🖥️ **Full Stack Development** — building full-stack web applications with FastAPI, React, PostgreSQL, Github, Github Actions, Docker.
 - 🏗️ Builder-first mindset — I'd rather ship something production-ready than leave it as a theory exercise
 
 ---
